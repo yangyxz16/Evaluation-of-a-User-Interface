@@ -1,0 +1,9 @@
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3-xxy180008.csprojAssemblyReference.cache
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3_xxy180008.Form1.resources
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3_xxy180008.Properties.Resources.resources
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3-xxy180008.csproj.GenerateResource.cache
+C:\Users\yangy\source\repos\Asg3-xxy180008\bin\Debug\Asg3-xxy180008.exe.config
+C:\Users\yangy\source\repos\Asg3-xxy180008\bin\Debug\Asg3-xxy180008.exe
+C:\Users\yangy\source\repos\Asg3-xxy180008\bin\Debug\Asg3-xxy180008.pdb
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3-xxy180008.exe
+C:\Users\yangy\source\repos\Asg3-xxy180008\obj\Debug\Asg3-xxy180008.pdb
